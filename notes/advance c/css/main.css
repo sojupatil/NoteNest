@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: Montserrat;
+}
+
+.code-block{
+    font-family:Fira Code;
+    background-color:black;
+    color:white;
+    padding:5px;
+    margin:2px;
+    border:0.5px solid gray;
+}
+
+img{
+    width: 300px;
+    margin: 10px auto;
+    display: block;
+}
